@@ -1,7 +1,7 @@
 Listing the sources of the data:
 
 * zipcodes.cvs --> https://www.bestplaces.net/find/zip.aspx?st=az&msa=38060
-* az_arizona_zip_codes_geo.min.json (https://github.com/OpenDataDE/State-zip-code-GeoJSON/blob/master/az_arizona_zip_codes_geo.min.json)
+* az_arizona_zip_codes_geo.min.json (https://github.com/OpenDataDE/State-zip-code-GeoJSON)
 
 
 
